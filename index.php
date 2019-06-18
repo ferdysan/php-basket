@@ -31,7 +31,7 @@ $array_giocatori=genera_giocatore(100);
     <p>Rimbalzi : <?php echo $stats['rimbalzi']; ?></p>
     <p>Falli :<?php echo $stats['falli']; ?></p>
     <p>Tiri da 2 : <?php echo $stats['perc. tiri da 2']; ?></p>
-    <p><?php echo $stats['perc. tiri da 3']; ?></p>
+    <p>Tiri da 3 :<?php echo $stats['perc. tiri da 3']; ?></p>
 
     </div>
 

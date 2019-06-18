@@ -36,7 +36,7 @@ function stat_player(){
 
     // mi genero le percentuali
     $perc2= rand(0,1000)/10;
-    $perc3= rand(100 - $perc2);
+    $perc3= (100 - $perc2);
 
     $giocatore =[
       [
